@@ -20,6 +20,9 @@ function magicgurl() {
 				text = text.replace(/Shemale/g, 'Magicgurl');
 				text = text.replace(/shemale/g, 'magicgurl');
 
+				text = text.replace(/Ladyboy/g, 'Magicgurl');
+				text = text.replace(/ladyboy/g, 'magicgurl');
+
 				child.nodeValue = text;
 			}
 		});
