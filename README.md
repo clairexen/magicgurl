@@ -2,7 +2,7 @@ A Chrome extension that replaces the t-slur (and similar words) with 'magicgurl'
 ----------------------------------------------------------------------------------------------
 
 Install instructions:
-- Put these files in a directory somewhere
+- Put these files in a directory somewhere ([download as zip](https://github.com/clairexen/magicgurl/zipball/master/))
 - Open chrome://extensions/ in Chrome
 - Click "Load unpacked" and select the directory
 
