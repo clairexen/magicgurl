@@ -5,6 +5,7 @@ Install instructions:
 - Put these files in a directory somewhere ([download as zip](https://github.com/clairexen/magicgurl/zipball/master/))
 - Open chrome://extensions/ in Chrome
 - Click "Load unpacked" and select the directory
+- Click "Details" and enable "Allow in incognito" (if you use incognito mode on porn sites)
 
 Add more sites:
 - Simply add them to the "matches" section in manifest.json.
