@@ -11,3 +11,6 @@ Add more sites:
 
 Add more words:
 - Simply add them to the JavaScript code in magicgurl.js.
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/59544343/80311747-bb6b8a80-87e1-11ea-8d2d-537e5834eebf.png)
