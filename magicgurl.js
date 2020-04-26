@@ -13,9 +13,9 @@ function magicgurl() {
 				text = text.replace(/trannie/g, 'magicgurl');
 
 				text = text.replace(/Sissy/g, 'Magicgurl');
-				text = text.replace(/Sissy/g, 'magicgurl');
+				text = text.replace(/sissy/g, 'magicgurl');
 				text = text.replace(/Sissie/g, 'Magicgurl');
-				text = text.replace(/Sissie/g, 'magicgurl');
+				text = text.replace(/sissie/g, 'magicgurl');
 
 				text = text.replace(/Shemale/g, 'Magicgurl');
 				text = text.replace(/shemale/g, 'magicgurl');
