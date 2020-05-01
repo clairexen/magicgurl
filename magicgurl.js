@@ -32,7 +32,7 @@ function magicgurl() {
 				text = text.replace(/dickgirl/g, 'magicgurl');
 
 				text = text.replace(/Trap/g, 'Magicgurl');
-				text = text.replace(/trap/g, 'magicgurl');
+				text = text.replace(/(?<!s)trap/g, 'magicgurl');
 
 				// trans men => magicboi
 
